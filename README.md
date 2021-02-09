@@ -30,14 +30,6 @@ Performance analysis:
 
 Result Significance:
 
-	We were able to get significate results based on the evaluation.
-
-Problem enhancements:
-
-	This is not a complete expert system that talk about even a very instance of the stages of pregnancy. This expert’s system focuses on just one of the many things that go all while a female carries a baby. This expert system has could only help females to help prevent them only the diabetic problems, but for any other problem that is related to their pregnancy they need to visit a doctor and is  a part of our future enhancement.
+	 were able to get significate results based on the evaluation.
 
 
-
-Future Work: 
-
-	For the future, we can combine this expert system with machine learning systems to be able to help such females with all the possible problems that they could possibly come across. This system, on the other hand, will be able to help these females to keep a track on their diet and their meal which would help them maintain their blood sugar level but also help them in various other possible manners and they’re by improving their health condition. And thereby reducing their time and money that they would have to invest in travelling and waiting. 
